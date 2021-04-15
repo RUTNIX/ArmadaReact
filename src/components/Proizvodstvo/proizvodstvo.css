@@ -1,0 +1,60 @@
+.container4 {
+  width: 95%;
+  margin: auto;
+}
+.container4 p {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+
+  text-align: center;
+  letter-spacing: 0.055em;
+
+  color: #000000;
+}
+.container4 h3 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+
+  text-align: center;
+
+  color: #000000;
+}
+.proizvodstvo3 h5 {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  position: absolute;
+  margin-top: 25%;
+  margin-left: 40%;
+
+  color: #ffffff;
+}
+.proizvodstvo3 {
+  background: url(../images/aboutshoot2.png) center/ cover no-repeat;
+  width: 100%;
+  height: 400px;
+  background-blend-mode: multiply;
+  background-color: rgba(0, 0, 0, 0.486);
+  margin-bottom: 5%;
+  position: relative;
+  margin-top: 5%;
+}
+.proiz IMG {
+  width: 400px;
+  height: 400px;
+  margin-left: 0.2%;
+}
+.proiz {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
